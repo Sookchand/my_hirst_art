@@ -16,7 +16,8 @@ I would like to thank Dr. Angela Yu.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![ny_hirst_art](https://github.com/Sookchand/my_hirst_art/assets/34344439/3a8005bc-3f60-4d43-a064-c62cdef1345c)
+
 
 
 ## Tech Stack
